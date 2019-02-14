@@ -19,15 +19,15 @@
 
 * 패러다임 모습
 
-[![Alt text](https://img.youtube.com/vi/ROtto1Jh6Bk/0.jpg)](https://www.youtube.com/watch?v=ROtto1Jh6Bk)  
+[![Alt text1](https://img.youtube.com/vi/ROtto1Jh6Bk/0.jpg)](https://www.youtube.com/watch?v=ROtto1Jh6Bk)  
 
 * 원본 데이터 시각화
 
-[![Alt text](https://img.youtube.com/vi/xrPvZJagrxA/0.jpg)](https://www.youtube.com/watch?v=xrPvZJagrxA)  
+[![Alt text2](https://img.youtube.com/vi/xrPvZJagrxA/0.jpg)](https://www.youtube.com/watch?v=xrPvZJagrxA)  
 
 * 수정 후 데이터 시각화
 
-[![Alt text](https://img.youtube.com/vi/husFOFL9-ts/0.jpg)](https://www.youtube.com/watch?v=husFOFL9-ts)  
+[![Alt text3](https://img.youtube.com/vi/husFOFL9-ts/0.jpg)](https://www.youtube.com/watch?v=husFOFL9-ts)  
 
 4. 영상 데이터 확인 및 시선이 집중될 만한 장면 찾기 
 * 영상마다 시선이 집중될만한 장면 시간 체크 중..  
