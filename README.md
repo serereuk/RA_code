@@ -18,7 +18,9 @@
 * 만든 패러다임으로 아예 범용화 코드를 만드는 중  
 
 * 패러다임 모습
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ROtto1Jh6Bk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Alt text](https://img.youtube.com/vi/ROtto1Jh6Bk/0.jpg)](https://www.youtube.com/watch?v=ROtto1Jh6Bk)
+
 
 4. 영상 데이터 확인 및 시선이 집중될 만한 장면 찾기 
 * 영상마다 시선이 집중될만한 장면 시간 체크 중..  
