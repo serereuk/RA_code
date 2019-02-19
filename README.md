@@ -2,6 +2,21 @@
 
 ## 'Eye Tracking Data Recalibration and Visualization'  
 
+02-19 8주차 활동 내역
+
+1. Hidden Layer 추가 실험  
+* ANN 레이어 및 노드 개수 실험  
+1) 레이어 3개 노드 (20,20,20)
+2) 레이어 4개 노드 (10,10,10,10)
+
+2. 실제 데이터 확인  
+* 실제 데이터 파이썬에 올려서 확인중 
+* frame과 ATT를 맞춰야할듯
+
+3. 영상 calibration 아이디어 생각중
+* visual saliency? 사용? - Calibration-free gaze sensing using saliency maps(Yusuke Sugano at el)에서 영감을 얻음
+
+
 7주차 활동 내역  
 
 1. ANN 구현 및 확인  
