@@ -16,7 +16,7 @@
 3. 영상 calibration 아이디어 생각중
 * visual saliency? 사용? - Calibration-free gaze sensing using saliency maps(Yusuke Sugano at el)에서 영감을 얻음
 
-![Alt text](test saliency.png)
+![Alt text0](test saliency.png)
 
 
 7주차 활동 내역  
