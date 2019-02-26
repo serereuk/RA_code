@@ -13,7 +13,7 @@
   *  로스 공식 바꿔보기 MSE -> MAE
   *  라벨 좌표에 normal distribution을 더해봄
   *  학습 시간을 늘려봄
-  *  gpu로 사용해서 학습
+  *  gpu로 사용해서 학습 -> google colab 사용
   *  sigmoid 적용
 
 3. 문제점
