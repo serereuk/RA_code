@@ -8,14 +8,15 @@
   * 영상 3 84초 + 3분 30초 + 84초
 
 2. Fitting 중  
-  *  레이어 수 늘리기 2개 -> 13개 -> 3개 -> 6개
-  *  노드 수 늘리기 20, 30 -> 100개 이상 ~ 1000개까지..
+  *  레이어 수 늘리기 2개 -> 13개 -> 3개 -> 6개  
+      * universal approximater의 이론을 참조  https://en.wikipedia.org/wiki/Universal_approximation_theorem
+  *  노드 수 늘리기 20, 30 -> 100개 이상 ~ 1000개까지.. -> 3000개로 늘림
   *  로스 공식 바꿔보기 MSE -> MAE
-  *  라벨 좌표에 normal distribution을 더해봄
-  *  학습 시간을 늘려봄
+  *  라벨 좌표에 normal distribution을 더해봄 -> 별 차이가 없었음
+  *  학습 시간을 늘려봄 -> 1000에서 5000에폭
   *  gpu로 사용해서 학습 -> google colab 사용
   *  sigmoid 적용
 
 3. 문제점
   * 생각보다 안 맞는 거 같다.
-  * 
+  * 눈이 작거나 속눈썹이 긴 사람들은 안 맞을 가능성이 있다.  
