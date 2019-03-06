@@ -17,4 +17,6 @@
 
 2. 동공 정보 활용
 
+https://github.com/serereuk/RA_code/blob/master/10주차/pupil%20stats.ipynb
+
 3. 
