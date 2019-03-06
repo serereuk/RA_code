@@ -30,12 +30,12 @@ https://github.com/serereuk/RA_code/blob/master/10주차/pupil%20stats.ipynb
 
 3. 영상으로 확인
 
-* 원본 데이터 확인
-[![Alt text1](https://img.youtube.com/vi/jYHSlFsvlVI/0.jpg)](https://www.youtube.com/watch?v=jYHSlFsvlVI)  
+* 원본 데이터 확인    
+[![Alt text1](https://img.youtube.com/vi/jYHSlFsvlVI/0.jpg)](https://www.youtube.com/watch?v=jYHSlFsvlVI)    
 
-* train 데이터 확인
-[![Alt text1](https://img.youtube.com/vi/i6BrJzm1naM/0.jpg)](https://www.youtube.com/watch?v=i6BrJzm1naM) 
+* train 데이터 확인  
+[![Alt text1](https://img.youtube.com/vi/i6BrJzm1naM/0.jpg)](https://www.youtube.com/watch?v=i6BrJzm1naM)   
 
-* test 데이터 확인
-[![Alt text1](https://img.youtube.com/vi/4uVmPYhOrXM/0.jpg)](https://www.youtube.com/watch?v=4uVmPYhOrXM) 
+* test 데이터 확인  
+[![Alt text1](https://img.youtube.com/vi/4uVmPYhOrXM/0.jpg)](https://www.youtube.com/watch?v=4uVmPYhOrXM)   
 
