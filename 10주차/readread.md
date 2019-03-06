@@ -39,3 +39,11 @@ https://github.com/serereuk/RA_code/blob/master/10주차/pupil%20stats.ipynb
 * test 데이터 확인  
 [![Alt text1](https://img.youtube.com/vi/4uVmPYhOrXM/0.jpg)](https://www.youtube.com/watch?v=4uVmPYhOrXM)   
 
+4. Input 차원 늘리기  
+
+기존에 2차원이었던 인풋을 x좌표와 y좌표를 곱한 값을 넣어서 3차원으로 만들어서 네트워크에 학습을 시켜보았습니다.  
+결과는 아래에서 확인하실 수 있습니다.
+
+https://github.com/serereuk/RA_code/blob/master/10주차/testing1.ipynb
+
+
