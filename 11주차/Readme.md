@@ -45,6 +45,6 @@ Fixations have two characteristics distinguishing them from gaze points. The fir
 * https://plot.ly/~serereuk/18 -> height  
 
 * label에 따른 apw 분포 확인  
-![alt text]('dist_by label apw.jpg')  
-* label에 따른 aph 분포 확인  
-![alt text]('dist_by label aph.jpg')  
+![alt text](dist_by label apw.jpg)  
+* label에 따른 aph 분포 확인   
+![alt text](dist_by label aph.jpg)  
