@@ -17,7 +17,7 @@ Fixations have two characteristics distinguishing them from gaze points. The fir
 * 기존(constrain이 있는 모형)과 다른 것이 별로 없다고 생각함.  
 * 결과는 아래서 확인 가능  
 ** constrain model  
-![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_original.jpg)  
+![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_original.jpg)
 ![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct0.jpg)
 ![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct.jpg)  
 ![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_original2.jpg)
