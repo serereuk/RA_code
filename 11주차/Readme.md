@@ -16,7 +16,7 @@ Fixations have two characteristics distinguishing them from gaze points. The fir
 * 기존 모델에 Fixation이 높은 점들을 넣어서 계산시에 어떠한 결과가 보이는가? -> 학습 시간은 좀 빨리짐  
 * 기존(constrain이 있는 모형)과 다른 것이 별로 없다고 생각함.  
 * 결과는 아래서 확인 가능  
-![alt text](11/node_100_size_128_epoch_4000_khc11_constrain/khc1_original.jpg)
+![alt text](11주차/node_100_size_128_epoch_4000_khc11_constrain/khc1_original.jpg)
 
 ### 3. Movie Eye tracking Data 전처리  
 
