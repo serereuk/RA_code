@@ -51,3 +51,19 @@ Fixations have two characteristics distinguishing them from gaze points. The fir
 * label에 따른 aph 분포 확인   
 
 ![alt text](dist_by%20label%20aph.jpg)  
+
+* 각 영상들에 대한 분포 차이 확인
+
+![alt_text](stats.jpg)
+
+* 각 영상들에 대한 t test p-value 확인  
+
+![alt text](p-value.jpg)
+
+* 각 영상들에 대한 분산 동일 검정 확인  
+
+![alt text](equal-var-p-value.jpg)
+
+
+
+
