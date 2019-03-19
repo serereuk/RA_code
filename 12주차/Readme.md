@@ -8,6 +8,11 @@
 
 ### 결과 
 
+* 10개인 경우 
+
+![alt text](node_10_size_128_epoch_4000_khc11_constrain/khc1_correct0.jpg)
+![alt text](node_10_size_128_epoch_4000_khc11_constrain/khc1_correct.jpg)
+
 2. Two eye data based learning
 * 앞서 언급한 방식과 함께 사용
 * 두 눈의 좌표가 인풋이며 [alx, blx, aly, bly] 형식
