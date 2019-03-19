@@ -12,6 +12,8 @@
 
 ![alt text](node_10_size_128_epoch_4000_khc11_constrain/khc1_correct0.jpg)
 ![alt text](node_10_size_128_epoch_4000_khc11_constrain/khc1_correct.jpg)
+![alt text](node_10_size_128_epoch_4000_khc11_constrain/khc1_correct1.jpg)
+![alt text](node_10_size_128_epoch_4000_khc11_constrain/khc1_correct2.jpg)
 
 2. Two eye data based learning
 * 앞서 언급한 방식과 함께 사용
