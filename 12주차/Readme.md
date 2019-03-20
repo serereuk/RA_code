@@ -43,6 +43,7 @@
 ![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct2.jpg)![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct3.jpg)
 
 * 에폭 5000인 경우
+
 ![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct0.jpg)![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct.jpg)
 ![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct2.jpg)![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct3.jpg)
 
