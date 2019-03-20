@@ -54,6 +54,8 @@
 * 다른 논문들을 통해서 동공 반응에 대한 선행 연구를 확인중  
 * 다른 논문들 같은 경우에는 diameter를 계산해서 진행중... 
 
+* 1. Pupillary Responses and Chronminance Components in Natural Viewing Conditions (Doohwan Lee, Manho Jang, Doo-Jin Park 2017)
+
 ### 각 논문 소개
 
 4. 전처리 자동화 -> 거의 성공
