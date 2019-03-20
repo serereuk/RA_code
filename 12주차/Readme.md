@@ -18,10 +18,30 @@
 ![alt text](node_40_size_128_epoch_4000_khc11_constrain/khc1_correct0.jpg)![alt text](node_40_size_128_epoch_4000_khc11_constrain/khc1_correct.jpg)
 ![alt text](node_40_size_128_epoch_4000_khc11_constrain/khc1_correct2.jpg)![alt text](node_40_size_128_epoch_4000_khc11_constrain/khc1_correct3.jpg)
 
+* 50개인 경우
+
+![alt text](node_50_size_128_epoch_4000_khc11_constrain/khc1_correct0.jpg)![alt text](node_50_size_128_epoch_4000_khc11_constrain/khc1_correct.jpg)
+![alt text](node_50_size_128_epoch_4000_khc11_constrain/khc1_correct2.jpg)![alt text](node_50_size_128_epoch_4000_khc11_constrain/khc1_correct3.jpg)
+
 2. Two eye data based learning
+* eyeA와 eyeB는 유사한 형태를 보임!
 * 앞서 언급한 방식과 함께 사용
 * 두 눈의 좌표가 인풋이며 [alx, blx, aly, bly] 형식
 * 6개 레이어 성능이 별로 좋지 않음 -> 레이어를 늘릴 필요가 있을지도... 
+
+* eyeA, eyeB 영상 시작 전 패러다임 모습
+
+![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_eyeA.jpg)![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_eyeB.jpg)
+
+* 에폭 4000인 경우  
+
+![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct0.jpg)![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct.jpg)
+![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct2.jpg)![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct3.jpg)
+
+* 에폭 5000인 경우  
+![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct0.jpg)![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct.jpg)
+![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct2.jpg)![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct3.jpg)
+
 
 ### 결과
 
