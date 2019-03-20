@@ -33,12 +33,16 @@
 
 ![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_eyeA.jpg)![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_eyeB.jpg)
 
+* eyeA, eyeB 영상 본 후 패러다임 모습
+
+![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_eyeA2.jpg)![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_eyeB2.jpg)
+
 * 에폭 4000인 경우  
 
 ![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct0.jpg)![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct.jpg)
 ![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct2.jpg)![alt text](node_100_size_128_epoch_4000_khc11_constrain/khc1_correct3.jpg)
 
-* 에폭 5000인 경우  
+* 에폭 5000인 경우
 ![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct0.jpg)![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct.jpg)
 ![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct2.jpg)![alt text](node_100_size_128_epoch_5000_khc11_constrain/khc1_correct3.jpg)
 
