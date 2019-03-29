@@ -44,4 +44,12 @@
   
 ![alt_text](eye.png)
 
- 
+
+한 가지 주목할 만한 점은 eye data를 반영했다는 점이고 고민하던 빛에 대한 영향을 줄이는 법을 소개함.
+
+![alt_text](eye1.png)
+![alt_text](eye2.png)
+![alt_text](eye3.png)
+
+
+
