@@ -40,6 +40,7 @@
 
 ### 3. Multimodal Emotion Recognition in Response to Videos(Mohammad Soleymani, Member, IEEE)
 
-
+  논문이 찾고 싶은 것은 EEG 신호 뿐만 아니라 동공 크기의 변화등을 사용하여 감정을 분류하는 모델을 만드려고 함.
+  
 
 
