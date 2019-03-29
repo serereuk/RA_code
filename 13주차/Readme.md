@@ -10,6 +10,10 @@
 
 ### 결과 
 
+* node 150개 인 경우
+![alt text](node_150_size_64_epoch_4000_khc11_bilearn/khc1_correct0.jpg)![alt text](node_150_size_64_epoch_4000_khc11_bilearn/khc1_correct.jpg)
+![alt text](node_150_size_64_epoch_4000_khc11_constrain/khc1_correct2.jpg)![alt text](node_150_size_64_epoch_4000_khc11_constrain/khc1_correct3.jpg)
+
 ### 2. start diffrent middle diffrent end concat model 
 
 * 누워있다가 영감을 얻고 만듦 -> 6개 레이어가 성능이 각각 좋았으니 서로 6개 거치고 나중에 합하며 어떻게 될까라는 순수한 생각에서 만듦.
