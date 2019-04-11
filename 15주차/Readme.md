@@ -3,9 +3,9 @@
 
 ### Pupil size data에 대한 다양한 연구 방법 조사
 
-* 1. Laura Leuchs, Max Schneider, Michael Czisch, Victor I. Spoormaker Neural correlates of pupil dilation during human fear learning, NeuroImage, Volume 147, 2017, Pages 186-197
+* 1. Neural correlates of pupil dilation during human fear learning, Laura Leuchs, Max Schneider, Michael Czisch, Victor I. Spoormaker, NeuroImage, Volume 147, 2017, Pages 186-197
 
-* 2. Jerčić, P., Sennersten, C. & Lindley, C. Multimed Tools Appl (2018). https://doi.org/10.1007/s11042-018-6518-z
+* 2. Modeling cognitive load and physiological arousal through pupil diameter and heart rate, Jerčić, P., Sennersten, C. & Lindley, C. Multimed Tools Appl (2018). https://doi.org/10.1007/s11042-018-6518-z
 
 * 3. Homeostatic circuits selectively gate food cue responses in insular cortex, Yoav Livneh 외 여러명, Nature, 2017
 
