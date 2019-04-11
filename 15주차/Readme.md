@@ -9,7 +9,8 @@
 
 * 3. Homeostatic circuits selectively gate food cue responses in insular cortex, Yoav Livneh 외 여러명, Nature, 2017
 
-* 4. The pupil as a measure of emotional arousal and autonomic activation, Margaret M.Bradley, Laura Miccoli, Psychophysiology, 2008, 602-607
+* 4. The pupil as a measure of emotional arousal and autonomic activation, Margaret M.Bradley, Laura Miccoli, Psychophysiology, 2008, 602-607  
+
 =======================================
 pupil analysis에 대한 전반적인 workflow
 
