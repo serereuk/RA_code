@@ -78,3 +78,20 @@ pupil data로서 적용한 부분
 ### The pupil as a measure of emotional arousal and autonomic activation
 
 
+```
+The data provide strong support for the hypothesis that the pupil's reponse during affective picture viewing reflects emotional arousal associated with increased sympathetic activity
+```
+
+### pupil data로서 적용한 부분
+
+* 1. linear interpolation
+* 2. For each trial, a 1-s prepicture baseline average was subtracted.
+* 3. Pupillary response when viewing affective pictures shows greater pupillary increases following the initial light reflex for pleasant and unpleasant, compared to neutral, pictures, indicating modulation by emotional arousal. 
+* 4. 빛 반응을 제외하거나 그러지 않은듯!
+
+```
+An initial decrease in pupil diameter following picture onset was strongly related to luminance as expected, and experimental control insured that this initial light reflex did not differ as a function of picture content, allowing an assessment of emotion on pupillary changes during picture perception. The data clearly indicated that, following the initial light reflex, pupillary increases were larger when participants viewed pleasant or unpleasant, compared to neutral, pictures. These data disconfirm earlier hypotheses regarding differential pupillary changes as a function of hedonic valence (Hess & Polt, 1960) and support the more recent consensus that pupil diameter increases when people process emotionally engaging stimuli, regardless of hedonic valence. In a recent study, Partala, Jokiniemi, and Surakka (2000) reported increased pupil dilation even when participants listened to affectively engaging, compared to neutral, sounds, suggesting that emotional arousal prompts pupillary increases even when the perceptual context is not visual.
+```
+
+
+
