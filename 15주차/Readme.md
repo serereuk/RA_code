@@ -36,7 +36,7 @@ pupil analysis에 대한 전반적인 workflow
 논문 각각 방법 소개
 ==================
 
-### Neural correlates of pupil dilation during human fear learning
+### 1. Neural correlates of pupil dilation during human fear learning
 
 ```
 highlights
@@ -61,7 +61,7 @@ Pupil dilations during fear conditioning and extinction provide useful readouts 
 
 https://www.sciencedirect.com/science/article/pii/S1053811916306905?via%3Dihub
 
-### Modeling cognitive load and physiological arousal through pupil diameter and heart rate
+### 2. Modeling cognitive load and physiological arousal through pupil diameter and heart rate
 
 https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs11042-018-6518-z/MediaObjects/11042_2018_6518_Fig1_HTML.png
 
@@ -72,7 +72,7 @@ https://media.springernature.com/original/springer-static/image/art%3A10.1007%2F
 
 https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs11042-018-6518-z/MediaObjects/11042_2018_6518_Fig4_HTML.png
 
-### Homeostatic circuits selectively gate food cue responses in insular cortex
+### 3. Homeostatic circuits selectively gate food cue responses in insular cortex
 
 https://media.nature.com/original/nature-assets/nature/journal/v546/n7660/extref/nature22375-s1.pdf
 
@@ -80,7 +80,7 @@ pupil data로서 적용한 부분
 
 1. 쥐를 사용했다...
 
-### The pupil as a measure of emotional arousal and autonomic activation
+### 4. The pupil as a measure of emotional arousal and autonomic activation
 
 
 ```
