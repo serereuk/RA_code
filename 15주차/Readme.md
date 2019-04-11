@@ -62,6 +62,8 @@ Pupil dilations during fear conditioning and extinction provide useful readouts 
 -> Then the first order derivatives were examined for every single epoch. If the derivative of an epoch differed by more than 3.3 standard deviations from the mean derivative of the same epoch of all other trials in this subject, the whole corresponding trial was discarded as an outlier
 * 5. 중앙이 아닌 다른 곳을 보고 있었던 데이터도 제거.
 
+![alt text](15-1.png)
+
 https://www.sciencedirect.com/science/article/pii/S1053811916306905?via%3Dihub
 
 ### 2. Modeling cognitive load and physiological arousal through pupil diameter and heart rate
