@@ -11,6 +11,9 @@
 
 * 4. The pupil as a measure of emotional arousal and autonomic activation, Margaret M.Bradley, Laura Miccoli, Psychophysiology, 2008, 602-607  
 
+* 5. Low-dose intranasal oxytocin delivered with Breath Powered device modulates pupil diameter and amygdala activity: a randomized controlled pupillometry and fMRI study, Daniel S. Quintana 1, Lars T. Westlye 1,2, Dag Alnæs 1, Tobias Kaufmann1, Ramy A. Mahmoud3, Knut T. Smerud4, Per G. Djupesland5 and Ole A. Andreassen, Nature, (2019), Neuropsychopharmacology
+
+
   
 pupil analysis에 대한 전반적인 workflow
 =======================================
@@ -106,6 +109,8 @@ Jokiniemi, and Surakka (2000) reported increased pupil dilation even when partic
 neutral, sounds, suggesting that emotional arousal prompts pupillary increases even when the perceptual context is not visual.
 
 ```
+
+### Low-dose intranasal oxytocin delivered with Breath Powered device modulates pupil diameter and amygdala activity: a randomized controlled pupillometry and fMRI study
 
 
 
