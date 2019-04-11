@@ -11,7 +11,7 @@
 
 * 4. The pupil as a measure of emotional arousal and autonomic activation, Margaret M.Bradley, Laura Miccoli, Psychophysiology, 2008, 602-607  
 
-=======================================
+=======================================  
 pupil analysis에 대한 전반적인 workflow
 
 
