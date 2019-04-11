@@ -112,5 +112,12 @@ neutral, sounds, suggesting that emotional arousal prompts pupillary increases e
 
 ### 5. Low-dose intranasal oxytocin delivered with Breath Powered device modulates pupil diameter and amygdala activity: a randomized controlled pupillometry and fMRI study
 
+```
+Little is known about how intranasally administered oxytocin reaches the brain and modulates social behavior and cognition.
+Pupil dilation is a sensitive index of attentional allocation and effort, and inter-individual variability in pupil diameter
+during performance of social-cognitive tasks may provide a better assessment of pharmacological effects on the brain than
+behavioral measures.
+```
+
 
 
