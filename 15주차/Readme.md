@@ -64,6 +64,9 @@ Pupil dilations during fear conditioning and extinction provide useful readouts 
 
 ![alt text](15-1.png)
 
+![alt text](https://ars.els-cdn.com/content/image/1-s2.0-S1053811916306905-gr2_lrg.jpg)
+![alt text](15-2.png)
+
 https://www.sciencedirect.com/science/article/pii/S1053811916306905?via%3Dihub
 
 ### 2. Modeling cognitive load and physiological arousal through pupil diameter and heart rate
