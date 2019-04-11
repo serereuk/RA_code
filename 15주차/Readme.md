@@ -110,7 +110,7 @@ neutral, sounds, suggesting that emotional arousal prompts pupillary increases e
 
 ```
 
-### Low-dose intranasal oxytocin delivered with Breath Powered device modulates pupil diameter and amygdala activity: a randomized controlled pupillometry and fMRI study
+### 5. Low-dose intranasal oxytocin delivered with Breath Powered device modulates pupil diameter and amygdala activity: a randomized controlled pupillometry and fMRI study
 
 
 
