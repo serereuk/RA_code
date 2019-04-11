@@ -11,9 +11,9 @@
 
 * 4. The pupil as a measure of emotional arousal and autonomic activation, Margaret M.Bradley, Laura Miccoli, Psychophysiology, 2008, 602-607  
 
-=======================================  
+  
 pupil analysis에 대한 전반적인 workflow
-
+=======================================
 
 ### pupil analysis - preprocessing
 
@@ -32,7 +32,10 @@ pupil analysis에 대한 전반적인 workflow
 * tonic: baseline pupil diameter
 
 #### from Pupillometry for dummies - 2017, Yunzhe liu, UCL
-==========================================================
+
+논문 각각 방법 소개
+==================
+
 ### Neural correlates of pupil dilation during human fear learning
 
 ```
