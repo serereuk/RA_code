@@ -71,6 +71,11 @@ https://www.sciencedirect.com/science/article/pii/S1053811916306905?via%3Dihub
 
 ## 2. Modeling cognitive load and physiological arousal through pupil diameter and heart rate
 
+```
+These results indicate that the coupling between PD and HR as a measure of physiological arousal may be a useful
+indicator of cognitive abilities of the participants in the context of a challenging decision-making task
+```
+
 ![alt text](https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs11042-018-6518-z/MediaObjects/11042_2018_6518_Fig1_HTML.png)
 
 ### pupil data로서 적용한 부분
