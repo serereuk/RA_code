@@ -87,7 +87,7 @@ indicator of cognitive abilities of the participants in the context of a challen
 
 ## 3. Homeostatic circuits selectively gate food cue responses in insular cortex
 
-https://media.nature.com/original/nature-assets/nature/journal/v546/n7660/extref/nature22375-s1.pdf
+https://www.nature.com/articles/nature22375
 
 pupil data로서 적용한 부분
 
@@ -95,11 +95,11 @@ pupil data로서 적용한 부분
 
 ## 4. The pupil as a measure of emotional arousal and autonomic activation
 
-
 ```
 The data provide strong support for the hypothesis that the pupil's reponse during affective picture viewing reflects emotional arousal
 associated with increased sympathetic activity
 ```
+![alt text](15-4.png)
 
 ### pupil data로서 적용한 부분
 
