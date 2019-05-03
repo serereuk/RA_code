@@ -9,6 +9,8 @@
 
 * 처음에는 파이썬을 작업 -> R의 패키지를 사용 (gazer) 
 
+https://github.com/dmirman/gazer
+
 * NA를 linear interpolation을 통해 보정
 
 * 각 영상마다 두 가지 파일 존재 - z_score 버젼과 baseline 버젼
