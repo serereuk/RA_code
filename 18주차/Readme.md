@@ -91,6 +91,6 @@
 ```
 * 시각화를 준비중 간단한 시각화
 
-![alt text](plot_zoom_png.png)
+![alt text](plot_zoom_png)
 
 ## 3. 데이터 영상 밝기 알고리즘 - 구현중
