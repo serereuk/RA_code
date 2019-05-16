@@ -1,1 +1,1 @@
-
+<iframe src="https://koreaoffice-my.sharepoint.com/personal/imssh186_korea_edu/_layouts/15/Doc.aspx?sourcedoc={8965f179-b1eb-4ce0-97f9-37b4cfbf1bfa}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office Online</a></iframe>
